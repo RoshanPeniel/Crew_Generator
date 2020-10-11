@@ -47,6 +47,18 @@ body
 {
 	transform: scale(1.1);
 }
+
+.link
+{
+	color: white;
+}
+.link:hover
+{
+	transform: scale(1.1);
+	color: white;
+	text-decoration: none;
+}
+
 .carousel-item .fixed-wrap
 {
 
@@ -172,24 +184,7 @@ h3.heading
 {
 	padding: 0;
 }
-.plans img
-{
-	max-width: 100%;
-	transition: transform .5s ease;
-	padding-bottom:1rem; 
-	padding-top: 1rem;
-}
 
-.plans img:hover
-{
-	transform: scale(1.5);
-	cursor: zoom-in;
-}
-
-.plans
-{
-	overflow: hidden;
-}
 
 .icon img
 {
