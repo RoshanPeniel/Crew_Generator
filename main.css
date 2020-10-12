@@ -411,7 +411,7 @@ footer hr.socket
 		background-image: url(Img/bg4.jpg);
 		background-size: cover;
 		background-attachment: fixed;
-		background-color: grey;
+		
 		overflow-x: hidden;
 		font-family:'Lato', sans-serif;
 		color: #e3dddc;
